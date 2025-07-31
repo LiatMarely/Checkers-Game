@@ -45,7 +45,6 @@ Designed using clean OOP principles, with clear separation between UI, logic, an
 <img width="647" height="655" alt="Image" src="https://github.com/user-attachments/assets/e2751b02-5a26-4116-9c8b-5a8cf58b6561" />
 </p>
 
-## 📂 Project Structure (Simplified)
 📁 FormUI
 │   ├── Form1.cs
 │   ├── FormBoardGame.cs
@@ -53,11 +52,18 @@ Designed using clean OOP principles, with clear separation between UI, logic, an
 │   └── Program.cs
 📁 Logic
 │   ├── Models/
-│   │   ├── Board.cs, Move.cs, Piece.cs, Player.cs, Position.cs
+│   │   ├── Board.cs
+│   │   ├── Move.cs
+│   │   ├── Piece.cs
+│   │   ├── Player.cs
+│   │   └── Position.cs
 │   ├── States/
-│   │   ├── IGameState.cs, PlayerTurnState.cs, GameOverState.cs
+│   │   ├── IGameState.cs
+│   │   ├── PlayerTurnState.cs
+│   │   └── GameOverState.cs
 │   ├── Strategies/
-│   │   ├── IStrategy.cs, RandomMoveStrategy.cs
+│   │   ├── IStrategy.cs
+│   │   └── RandomMoveStrategy.cs
 │   └── Game.cs
 
 
