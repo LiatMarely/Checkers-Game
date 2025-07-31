@@ -38,6 +38,12 @@ Designed using clean OOP principles, with clear separation between UI, logic, an
 - 🛠️ Visual Studio
 
 ---
+## 🖼️ Screenshots
+
+<p float="left">
+  <img width="723" height="536" alt="Image" src="https://github.com/user-attachments/assets/6fc7dbc2-fe7c-45f0-8c64-86903ec4c5e6" />
+<img width="647" height="655" alt="Image" src="https://github.com/user-attachments/assets/e2751b02-5a26-4116-9c8b-5a8cf58b6561" />
+</p>
 
 ## 📂 Project Structure (Simplified)
 📁 FormUI
