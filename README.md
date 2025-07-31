@@ -45,6 +45,13 @@ Designed using clean OOP principles, with clear separation between UI, logic, an
 <img width="647" height="655" alt="Image" src="https://github.com/user-attachments/assets/e2751b02-5a26-4116-9c8b-5a8cf58b6561" />
 </p>
 
+## 📂 Project Structure (Simplified)
+
+<details>
+  <summary>Click to expand</summary>
+
+<pre>
+
 📁 FormUI
 │   ├── Form1.cs
 │   ├── FormBoardGame.cs
@@ -66,6 +73,8 @@ Designed using clean OOP principles, with clear separation between UI, logic, an
 │   │   └── RandomMoveStrategy.cs
 │   └── Game.cs
 
+</pre>
+</details>
 
 ## 📦 How to Run
 
