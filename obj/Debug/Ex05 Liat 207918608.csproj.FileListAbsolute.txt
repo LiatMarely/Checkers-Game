@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\bin\Debug\Ex05 Liat 207918608.exe.config
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\bin\Debug\Ex05 Liat 207918608.exe
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\bin\Debug\Ex05 Liat 207918608.pdb
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\obj\Debug\Ex05 Liat 207918608.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\obj\Debug\Ex05_Liat_207918608.FormUI.Form1.resources
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\obj\Debug\Ex05_Liat_207918608.FormUI.FormBoardGame.resources
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\obj\Debug\Ex05_Liat_207918608.Properties.Resources.resources
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\obj\Debug\Ex05 Liat 207918608.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\obj\Debug\Ex05 Liat 207918608.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\obj\Debug\Ex05 Liat 207918608.exe
+C:\Users\USER\Desktop\A25 Ex05 LiatMarely 207918608\Ex05 Liat 207918608\obj\Debug\Ex05 Liat 207918608.pdb
